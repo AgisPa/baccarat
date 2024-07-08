@@ -4,7 +4,7 @@
 #include <string>
 
 int rand_pick() {
-    //The following line has been written in order to cahnge the seed of 
+    //The following line has been written in order to change the seed of 
     //randomness everytime that the algorithm is executed
     srand(time(NULL));
 
